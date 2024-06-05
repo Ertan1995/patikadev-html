@@ -1,0 +1,10 @@
+#erkszphoto {
+    width: 8%;
+    border-radius: 25%;
+}
+
+* {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
