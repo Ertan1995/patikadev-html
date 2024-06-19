@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    background-color: whitesmoke;
+    font-family: "Dosis", sans-serif;
+}
+
+
+.secondheader li a {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cadetblue;
+    font-size: 20px;
+    padding: 0.75rem;
+    border-radius: 13px;
+}
+
+.firstheader {
+    margin-top: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.secondheader {
+    background-color: whitesmoke;
+    padding: 1.4rem;
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    position: relative;
+}
+.aside-video-list {
+    margin-right: 10px;
+    overflow: auto;
+    position: absolute;
+    right: 0;
+    width: 332px;
+    padding: 10px;
+    height: 80%;
+    gap: 10px;
+    border: 1px solid rgb(217, 215, 215);
+
+}
+.container{
+    width: 82.1%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    background-color:rgb(217, 216, 216)
+}
+
+.tarif{
+    background-color: white;
+    width: 750px;
+
+
+}
