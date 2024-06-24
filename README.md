@@ -1,2 +1,2 @@
 # patikadev-html
-patika html ödevi
+patika html-css ödevi
